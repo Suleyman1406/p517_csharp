@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// C# intro array function
+
 //Console.WriteLine("Hello, World!");
 
 
@@ -288,20 +289,192 @@
 // {1, 2, 4}
 
 
-bool GetIsSame(int[] arr1, int[] arr2) {
-    if(arr1.Length != arr2.Length) {
-        return false;
-    }
+//bool GetIsSame(int[] arr1, int[] arr2) {
+//    if(arr1.Length != arr2.Length) {
+//        return false;
+//    }
 
-    for(int i = 0; i < arr1.Length; i++)
-    {
-        if (arr1[i] != arr2[i])
-        {
-            return false;
-        }
-    }
+//    for(int i = 0; i < arr1.Length; i++)
+//    {
+//        if (arr1[i] != arr2[i])
+//        {
+//            return false;
+//        }
+//    }
 
-    return true;
-}
+//    return true;
+//}
 
-Console.WriteLine(GetIsSame(new[] {1,2,3}, new[] {1,2}));
+//Console.WriteLine(GetIsSame(new[] {1,2,3}, new[] {1,2}));
+
+
+
+
+
+// ------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------------
+
+// Exercise
+
+/*
+ C. Js, Big-O, Flowchart
+    1. Iki dəyişkən tanımlayın və dəyər mənimsədin. (from, to)
+    2. Girilən aralıqda olan sadə ədədlərin ortalamasını hesablayın.
+    Example:
+    from = 12;
+    to = 25;
+    Ortalama 18       (13+17+19+23)/4
+*/
+
+//int from = 14;
+//int to = 25;
+//int sum = 0;
+//int count = 0;
+
+//for (int i = from; i <= to; i++) {
+//    bool isPrime = true;
+
+//    for (int j = 2; j < i; j++)
+//    {
+//        if(i%j==0)
+//        {
+//            isPrime = false;
+//            break;
+//        }
+//    }
+
+//    if(isPrime == true)
+//    {
+//        sum += i;
+//        count += 1;
+//    }
+//}
+
+//double avg = (double)sum / count;
+
+//Console.WriteLine("Avarage: {0}", avg);
+
+
+//int[] ReverseArray(int[] numbers)
+//{
+//    int[] reversedArray = new int[numbers.Length];
+
+//    for(int i = 0; i<numbers.Length; i++)
+//    {
+//        reversedArray[reversedArray.Length - 1 - i] = numbers[i];
+//    }
+
+//    return reversedArray;
+//}
+
+
+//int[] numbers = new int[] { 1, 2, 3, 3, 4, 5, 6, 67, 7 };
+//int[] newArr = ReverseArray(numbers);
+
+//for (int i = 0; i < newArr.Length; i++)
+//{
+//    Console.WriteLine(newArr[i]);
+//}
+
+//string name = "Suleyman";
+//string surname = "Dadashow";
+//string fullName = String.Format("Fullname: {0} {1}", name, surname); 
+
+//Console.WriteLine(fullName);
+
+
+//string groupName = "P517";
+
+//Console.WriteLine(groupName.Length);
+
+//string text = "Bir boolean return boolean edən funskiya yaradin. Bu funksiya parametr olaraq integer dəyər alır.";
+
+//Console.WriteLine(text.Trim().StartsWith("Bir"));
+//Console.WriteLine(text.Trim());
+//string text = "This is Trial.";
+//Console.WriteLine(text.LastIndexOf("T"));
+//string subText = text.Substring(4, 5);
+//Console.WriteLine(text);
+//Console.WriteLine(text.ToLower());
+//Console.WriteLine(text.ToUpper());
+//Console.WriteLine(text);
+//Console.WriteLine(text.Replace(" ", ""));
+//Console.WriteLine(text.Remove(3,8));
+
+//int[] numbers = new int[5];
+//numbers[0] = 2;
+//numbers[1] = 6;
+//numbers[2] = 6;
+//numbers[3] = 8; 
+//numbers[4] = 8;
+
+//Array.Resize(ref numbers, 30);
+//numbers[5] = 18;
+//Console.WriteLine(numbers[3]);
+
+
+//for(int i = 0; i<numbers.Length; i++)
+//{
+//    Console.WriteLine(numbers[i]);
+//}
+
+//foreach(int number in numbers)
+//{
+//    Console.WriteLine(number);
+//}
+
+
+//A.
+//	1. Bir array return edən funksiya yaradın. Funksiya parametr olaraq array alır.
+//	2. Funksiya girilən arraydəki elementlərin yerini bir sonrakı ilə(əgər varsa) dəyişib arrayi return eləməlidir.
+//	Example:
+//		func([1, 2, 3, 4, 5, 6, 7]) => [2, 1, 4, 3, 6, 5, 7]
+//		func([4, 8, 12, 3 ]) => [8, 4, 3, 12]
+
+//int[] ReverseNeighbour(int[] numbers)
+//{
+//    for(int i =0;i<numbers.Length-1; i+=2)
+//    {
+//        int temp = numbers[i]; 
+//        numbers[i] = numbers[i + 1]; 
+//        numbers[i + 1] = temp; 
+//    }
+
+//    return numbers;
+//}
+
+//int[] numbers = { 1, 2, 3, 4};
+
+//int[] newNumbers = ReverseNeighbour(numbers);
+
+//foreach(int t in numbers)
+//{
+//    Console.WriteLine(t);
+//}
+
+/*
+ * 
+ B.  // Array sort.
+	1. Bir funksiya yaradın(hec birsey return elemeyecek). Funksiyar parametr olaraq integer array alacaq. (Nəzərə alaq ki arrayin minimal uzunluğu 5 olacaq.)
+	2. Verilən arrayin içindəki ən böyük 4 ədədin toplamı ilə ən kiçik 4 ədədin toplamını ekrana yazdırın.
+	Example: 
+		func([1, 5, 2, 4, 8, 12, 3, -2]) => print 'Max: 29, Min: 4'
+		func([9, 1, 3, 7, -6, -3, 2, 5]) => print 'Max: 24, Min: -6'
+		func([4, 2, 6, 1, 3, 8, 9] => print 'Max 27, Min: 10'
+*/
+
+//void PrintMinMaxOfFour(int[] numbers)
+//{
+//    Array.Sort(numbers);
+//    int min = numbers[0] + numbers[1] + numbers[2] + numbers[3];
+//    int max = numbers[numbers.Length-1] + numbers[numbers.Length - 2] + numbers[numbers.Length - 3] + numbers[numbers.Length - 4];
+//    Console.WriteLine("Min {0}, Max {1}", min, max);
+//}
+
+//PrintMinMaxOfFour(new[] { 1, 5, 2, 4, 8, 12, 3, -2 });
