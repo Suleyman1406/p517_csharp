@@ -1,25 +1,20 @@
 ﻿<Properties StartupConfiguration="{9CA90331-CB87-4B22-ADBA-247F6D1536F7}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.IntroCSharp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="IntroCSharp/Program.cs">
-    <Files>
-      <File FileName="IntroCSharp/Program.cs" Line="398" Column="41" />
-    </Files>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="IntroCSharp" expanded="True">
-            <Node name="IntroCSharp" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="IntroCSharp" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IntroCSharp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
