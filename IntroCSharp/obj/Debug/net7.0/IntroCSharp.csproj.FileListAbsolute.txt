@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/bin/Debug/net7.0/IntroCSharp
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/bin/Debug/net7.0/IntroCSharp.deps.json
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/bin/Debug/net7.0/IntroCSharp.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/bin/Debug/net7.0/IntroCSharp.dll
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/bin/Debug/net7.0/IntroCSharp.pdb
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/obj/Debug/net7.0/IntroCSharp.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/obj/Debug/net7.0/IntroCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/obj/Debug/net7.0/IntroCSharp.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/obj/Debug/net7.0/IntroCSharp.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/obj/Debug/net7.0/IntroCSharp.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/obj/Debug/net7.0/IntroCSharp.dll
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/obj/Debug/net7.0/refint/IntroCSharp.dll
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/obj/Debug/net7.0/IntroCSharp.pdb
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/obj/Debug/net7.0/IntroCSharp.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/IntroCSharp/obj/Debug/net7.0/ref/IntroCSharp.dll
