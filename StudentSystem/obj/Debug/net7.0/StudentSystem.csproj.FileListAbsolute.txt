@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/bin/Debug/net7.0/StudentSystem
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/bin/Debug/net7.0/StudentSystem.deps.json
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/bin/Debug/net7.0/StudentSystem.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/bin/Debug/net7.0/StudentSystem.dll
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/bin/Debug/net7.0/StudentSystem.pdb
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/obj/Debug/net7.0/StudentSystem.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/obj/Debug/net7.0/StudentSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/obj/Debug/net7.0/StudentSystem.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/obj/Debug/net7.0/StudentSystem.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/obj/Debug/net7.0/StudentSystem.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/obj/Debug/net7.0/StudentSystem.dll
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/obj/Debug/net7.0/refint/StudentSystem.dll
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/obj/Debug/net7.0/StudentSystem.pdb
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/obj/Debug/net7.0/StudentSystem.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/StudentSystem/obj/Debug/net7.0/ref/StudentSystem.dll

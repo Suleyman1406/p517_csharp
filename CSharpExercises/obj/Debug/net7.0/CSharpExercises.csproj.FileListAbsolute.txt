@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/bin/Debug/net7.0/CSharpExercises
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/bin/Debug/net7.0/CSharpExercises.deps.json
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/bin/Debug/net7.0/CSharpExercises.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/bin/Debug/net7.0/CSharpExercises.dll
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/bin/Debug/net7.0/CSharpExercises.pdb
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/obj/Debug/net7.0/CSharpExercises.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/obj/Debug/net7.0/CSharpExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/obj/Debug/net7.0/CSharpExercises.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/obj/Debug/net7.0/CSharpExercises.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/obj/Debug/net7.0/CSharpExercises.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/obj/Debug/net7.0/CSharpExercises.dll
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/obj/Debug/net7.0/refint/CSharpExercises.dll
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/obj/Debug/net7.0/CSharpExercises.pdb
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/obj/Debug/net7.0/CSharpExercises.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/CSharpExercises/obj/Debug/net7.0/ref/CSharpExercises.dll
