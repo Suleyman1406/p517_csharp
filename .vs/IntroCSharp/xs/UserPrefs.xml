@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{16A69C9F-AAF8-4960-8300-AE3DDB6CFC51}|Default">
-  <MonoDevelop.Ide.ItemProperties.Inheritance FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{075E24F0-93E3-400B-8AEF-35F2A147F6EA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Reference FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ObjectClass/Program.cs">
     <Files>
