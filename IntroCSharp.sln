@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectClass", "ObjectClass\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSystem", "StudentSystem\StudentSystem.csproj", "{6D92B5B8-9861-4FAA-A471-7A0ED65F6922}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapOOP", "RecapOOP\RecapOOP.csproj", "{02C4A8AC-7B56-4F36-94A9-0BA4D8D44747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{16A69C9F-AAF8-4960-8300-AE3DDB6CFC51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{6D92B5B8-9861-4FAA-A471-7A0ED65F6922}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D92B5B8-9861-4FAA-A471-7A0ED65F6922}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D92B5B8-9861-4FAA-A471-7A0ED65F6922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C4A8AC-7B56-4F36-94A9-0BA4D8D44747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C4A8AC-7B56-4F36-94A9-0BA4D8D44747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C4A8AC-7B56-4F36-94A9-0BA4D8D44747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C4A8AC-7B56-4F36-94A9-0BA4D8D44747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A69C9F-AAF8-4960-8300-AE3DDB6CFC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A69C9F-AAF8-4960-8300-AE3DDB6CFC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A69C9F-AAF8-4960-8300-AE3DDB6CFC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A69C9F-AAF8-4960-8300-AE3DDB6CFC51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

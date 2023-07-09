@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/dadashow/Projects/IntroCSharp/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/dadashow/Projects/IntroCSharp/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/dadashow/Projects/IntroCSharp/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/dadashow/Projects/IntroCSharp/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/dadashow/Projects/IntroCSharp/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/dadashow/Projects/IntroCSharp/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/dadashow/Projects/IntroCSharp/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll

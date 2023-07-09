@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/bin/Debug/net7.0/RecapOOP
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/bin/Debug/net7.0/RecapOOP.deps.json
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/bin/Debug/net7.0/RecapOOP.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/bin/Debug/net7.0/RecapOOP.dll
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/bin/Debug/net7.0/RecapOOP.pdb
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/obj/Debug/net7.0/RecapOOP.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/obj/Debug/net7.0/RecapOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/obj/Debug/net7.0/RecapOOP.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/obj/Debug/net7.0/RecapOOP.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/obj/Debug/net7.0/RecapOOP.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/obj/Debug/net7.0/RecapOOP.dll
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/obj/Debug/net7.0/refint/RecapOOP.dll
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/obj/Debug/net7.0/RecapOOP.pdb
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/obj/Debug/net7.0/RecapOOP.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/RecapOOP/obj/Debug/net7.0/ref/RecapOOP.dll
