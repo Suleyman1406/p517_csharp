@@ -1,0 +1,14 @@
+/Users/dadashow/Projects/IntroCSharp/trial/bin/Debug/netcoreapp3.1/trial
+/Users/dadashow/Projects/IntroCSharp/trial/bin/Debug/netcoreapp3.1/trial.deps.json
+/Users/dadashow/Projects/IntroCSharp/trial/bin/Debug/netcoreapp3.1/trial.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/trial/bin/Debug/netcoreapp3.1/trial.runtimeconfig.dev.json
+/Users/dadashow/Projects/IntroCSharp/trial/bin/Debug/netcoreapp3.1/trial.dll
+/Users/dadashow/Projects/IntroCSharp/trial/bin/Debug/netcoreapp3.1/trial.pdb
+/Users/dadashow/Projects/IntroCSharp/trial/obj/Debug/netcoreapp3.1/trial.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/trial/obj/Debug/netcoreapp3.1/trial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/trial/obj/Debug/netcoreapp3.1/trial.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/trial/obj/Debug/netcoreapp3.1/trial.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/trial/obj/Debug/netcoreapp3.1/trial.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/trial/obj/Debug/netcoreapp3.1/trial.dll
+/Users/dadashow/Projects/IntroCSharp/trial/obj/Debug/netcoreapp3.1/trial.pdb
+/Users/dadashow/Projects/IntroCSharp/trial/obj/Debug/netcoreapp3.1/trial.genruntimeconfig.cache

@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "SomeImportantThings/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SomeImportantThings.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SomeImportantThings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SomeImportantThings/1.0.0": {
+      "type": "project",
+      "path": "../SomeImportantThings/SomeImportantThings.csproj",
+      "msbuildProject": "../SomeImportantThings/SomeImportantThings.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "SomeImportantThings >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/dadashow/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/dadashow/Projects/IntroCSharp/Internal/Internal.csproj",
+      "projectName": "Internal",
+      "projectPath": "/Users/dadashow/Projects/IntroCSharp/Internal/Internal.csproj",
+      "packagesPath": "/Users/dadashow/.nuget/packages/",
+      "outputPath": "/Users/dadashow/Projects/IntroCSharp/Internal/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/dadashow/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/SomeImportantThings.csproj": {
+              "projectPath": "/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/SomeImportantThings.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -9,7 +9,7 @@ public class Dog
     public int Age { get => age; set => age = value; }
     public string Name { get => name; private set => name = value; }
 
-    public Dog(string name, int age )
+	public Dog(string name, int age)
 	{
 		this.Name = name;
 		this.Age = age;
@@ -19,9 +19,9 @@ public class Dog
 	{
 		this.Name = name;
 		this.Age = 0;
-    }
+	}
 
-    public void printDogName()
+	public void printDogName()
 	{
 		Console.WriteLine($"My name is {Name}");
 	}
@@ -35,7 +35,19 @@ public class Dog
 	//{
 	//	//name = _name;
 	//	this.name = name;
-	//}	
+	//}
+
+	public void PrintHello()
+	{
+		Console.WriteLine("Hello");
+	}
+
+	
+
+	public void PrintHello(string name = "Sirinov", int age = 12)
+	{
+        Console.WriteLine($"Hello {name}");
+    }
 }
 
 

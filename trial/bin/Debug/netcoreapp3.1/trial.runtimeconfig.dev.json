@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/dadashow/.dotnet/store/|arch|/|tfm|",
+      "/Users/dadashow/.nuget/packages"
+    ]
+  }
+}

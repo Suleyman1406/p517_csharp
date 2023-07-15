@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/bin/Debug/net7.0/SomeImportantThings
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/bin/Debug/net7.0/SomeImportantThings.deps.json
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/bin/Debug/net7.0/SomeImportantThings.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/bin/Debug/net7.0/SomeImportantThings.dll
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/bin/Debug/net7.0/SomeImportantThings.pdb
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/obj/Debug/net7.0/SomeImportantThings.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/obj/Debug/net7.0/SomeImportantThings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/obj/Debug/net7.0/SomeImportantThings.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/obj/Debug/net7.0/SomeImportantThings.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/obj/Debug/net7.0/SomeImportantThings.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/obj/Debug/net7.0/SomeImportantThings.dll
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/obj/Debug/net7.0/refint/SomeImportantThings.dll
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/obj/Debug/net7.0/SomeImportantThings.pdb
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/obj/Debug/net7.0/SomeImportantThings.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/SomeImportantThings/obj/Debug/net7.0/ref/SomeImportantThings.dll

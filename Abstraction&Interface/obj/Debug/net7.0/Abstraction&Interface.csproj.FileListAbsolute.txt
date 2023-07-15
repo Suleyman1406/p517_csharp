@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/obj/Debug/net7.0/Abstraction&Interface.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/obj/Debug/net7.0/Abstraction&Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/obj/Debug/net7.0/Abstraction&Interface.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/obj/Debug/net7.0/Abstraction&Interface.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/obj/Debug/net7.0/Abstraction&Interface.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/bin/Debug/net7.0/Abstraction&Interface
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/bin/Debug/net7.0/Abstraction&Interface.deps.json
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/bin/Debug/net7.0/Abstraction&Interface.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/bin/Debug/net7.0/Abstraction&Interface.dll
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/bin/Debug/net7.0/Abstraction&Interface.pdb
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/obj/Debug/net7.0/Abstraction&Interface.dll
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/obj/Debug/net7.0/refint/Abstraction&Interface.dll
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/obj/Debug/net7.0/Abstraction&Interface.pdb
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/obj/Debug/net7.0/Abstraction&Interface.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/Abstraction&Interface/obj/Debug/net7.0/ref/Abstraction&Interface.dll

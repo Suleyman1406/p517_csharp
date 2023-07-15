@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7hCVqE21ocfT9E73Q7zlWcJPHpJP8bwd/yLfab6bu57mnwzumH0mPaX1ZJy+YwJSTsYvF+MIx/psPF2T5bLV9A==",
+  "success": true,
+  "projectFilePath": "/Users/dadashow/Projects/IntroCSharp/trial/trial.csproj",
+  "expectedPackageFiles": [
+    "/Users/dadashow/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/dadashow/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/dadashow/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
