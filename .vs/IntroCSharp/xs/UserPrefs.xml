@@ -1,33 +1,44 @@
-﻿<Properties StartupConfiguration="{529757AF-4C6C-4311-9F03-A9A4B978825A}|Default">
-  <MonoDevelop.Ide.ItemProperties.RecapOOP PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Abstraction_226Interface PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SomeImportantThings/Program.cs">
+﻿<Properties StartupConfiguration="{9CA90331-CB87-4B22-ADBA-247F6D1536F7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntroCSharp/Program.cs">
     <Files>
-      <File FileName="RecapOOP/Program.cs" Line="23" Column="1" />
-      <File FileName="SomeImportantThings/Program.cs" Line="5" Column="12" />
+      <File FileName="Interface/Program.cs" Line="30" Column="5" />
+      <File FileName="Interface/IPerson.cs" />
+      <File FileName="Interface/Developer.cs" />
+      <File FileName="Interface/Student.cs" />
+      <File FileName="IntroCSharp/Program.cs" Line="483" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="IntroCSharp" expanded="True">
-            <Node name="SomeImportantThings" expanded="True" selected="True" />
+            <Node name="Abstraction&amp;Interface" expanded="True" />
+            <Node name="Interface" expanded="True" />
+            <Node name="IntroCSharp" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.StudentSystem PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Inheritance__Homework PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Abstraction_226Interface PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Internal FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.trial PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.IntroCSharp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.CSharpExercises PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ObjectClass PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Reference PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SomeImportantThings PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.trial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CSharpExercises PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ObjectClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Quiz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StudentSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RecapOOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.IntroCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance__Homework PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dadashow/Projects/IntroCSharp/Quiz/Program.cs" relfile="Quiz/Program.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

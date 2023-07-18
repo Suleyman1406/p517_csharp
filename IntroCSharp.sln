@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal", "Internal\Intern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction&Interface", "Abstraction&Interface\Abstraction&Interface.csproj", "{529757AF-4C6C-4311-9F03-A9A4B978825A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{F23EE65E-AF21-4649-AED7-A67E2D7F24E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{46982405-EF7D-402E-BECD-7BDADDAF02B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{529757AF-4C6C-4311-9F03-A9A4B978825A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{529757AF-4C6C-4311-9F03-A9A4B978825A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{529757AF-4C6C-4311-9F03-A9A4B978825A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23EE65E-AF21-4649-AED7-A67E2D7F24E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23EE65E-AF21-4649-AED7-A67E2D7F24E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23EE65E-AF21-4649-AED7-A67E2D7F24E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23EE65E-AF21-4649-AED7-A67E2D7F24E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46982405-EF7D-402E-BECD-7BDADDAF02B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46982405-EF7D-402E-BECD-7BDADDAF02B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46982405-EF7D-402E-BECD-7BDADDAF02B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46982405-EF7D-402E-BECD-7BDADDAF02B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

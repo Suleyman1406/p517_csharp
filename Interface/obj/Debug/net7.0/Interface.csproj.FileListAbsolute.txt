@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/Interface/bin/Debug/net7.0/Interface
+/Users/dadashow/Projects/IntroCSharp/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/dadashow/Projects/IntroCSharp/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/Interface/bin/Debug/net7.0/Interface.dll
+/Users/dadashow/Projects/IntroCSharp/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/dadashow/Projects/IntroCSharp/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Interface/obj/Debug/net7.0/Interface.dll
+/Users/dadashow/Projects/IntroCSharp/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/dadashow/Projects/IntroCSharp/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/dadashow/Projects/IntroCSharp/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/Interface/obj/Debug/net7.0/ref/Interface.dll

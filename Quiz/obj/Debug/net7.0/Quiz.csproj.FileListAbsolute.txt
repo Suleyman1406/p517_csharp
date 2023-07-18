@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/Quiz/bin/Debug/net7.0/Quiz
+/Users/dadashow/Projects/IntroCSharp/Quiz/bin/Debug/net7.0/Quiz.deps.json
+/Users/dadashow/Projects/IntroCSharp/Quiz/bin/Debug/net7.0/Quiz.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/Quiz/bin/Debug/net7.0/Quiz.dll
+/Users/dadashow/Projects/IntroCSharp/Quiz/bin/Debug/net7.0/Quiz.pdb
+/Users/dadashow/Projects/IntroCSharp/Quiz/obj/Debug/net7.0/Quiz.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/Quiz/obj/Debug/net7.0/Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/Quiz/obj/Debug/net7.0/Quiz.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Quiz/obj/Debug/net7.0/Quiz.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/Quiz/obj/Debug/net7.0/Quiz.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Quiz/obj/Debug/net7.0/Quiz.dll
+/Users/dadashow/Projects/IntroCSharp/Quiz/obj/Debug/net7.0/refint/Quiz.dll
+/Users/dadashow/Projects/IntroCSharp/Quiz/obj/Debug/net7.0/Quiz.pdb
+/Users/dadashow/Projects/IntroCSharp/Quiz/obj/Debug/net7.0/Quiz.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/Quiz/obj/Debug/net7.0/ref/Quiz.dll
