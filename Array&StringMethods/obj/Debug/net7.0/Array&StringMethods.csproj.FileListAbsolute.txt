@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/bin/Debug/net7.0/Array&StringMethods
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/bin/Debug/net7.0/Array&StringMethods.deps.json
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/bin/Debug/net7.0/Array&StringMethods.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/bin/Debug/net7.0/Array&StringMethods.dll
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/bin/Debug/net7.0/Array&StringMethods.pdb
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/obj/Debug/net7.0/Array&StringMethods.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/obj/Debug/net7.0/Array&StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/obj/Debug/net7.0/Array&StringMethods.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/obj/Debug/net7.0/Array&StringMethods.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/obj/Debug/net7.0/Array&StringMethods.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/obj/Debug/net7.0/Array&StringMethods.dll
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/obj/Debug/net7.0/refint/Array&StringMethods.dll
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/obj/Debug/net7.0/Array&StringMethods.pdb
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/obj/Debug/net7.0/Array&StringMethods.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/Array&StringMethods/obj/Debug/net7.0/ref/Array&StringMethods.dll

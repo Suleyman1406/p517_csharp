@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/bin/Debug/net7.0/Homework_OOP
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/bin/Debug/net7.0/Homework_OOP.deps.json
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/bin/Debug/net7.0/Homework_OOP.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/bin/Debug/net7.0/Homework_OOP.dll
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/bin/Debug/net7.0/Homework_OOP.pdb
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/obj/Debug/net7.0/Homework_OOP.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/obj/Debug/net7.0/Homework_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/obj/Debug/net7.0/Homework_OOP.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/obj/Debug/net7.0/Homework_OOP.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/obj/Debug/net7.0/Homework_OOP.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/obj/Debug/net7.0/Homework_OOP.dll
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/obj/Debug/net7.0/refint/Homework_OOP.dll
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/obj/Debug/net7.0/Homework_OOP.pdb
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/obj/Debug/net7.0/Homework_OOP.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/Homework_OOP/obj/Debug/net7.0/ref/Homework_OOP.dll

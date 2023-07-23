@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/this&As/bin/Debug/net7.0/this&As
+/Users/dadashow/Projects/IntroCSharp/this&As/bin/Debug/net7.0/this&As.deps.json
+/Users/dadashow/Projects/IntroCSharp/this&As/bin/Debug/net7.0/this&As.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/this&As/bin/Debug/net7.0/this&As.dll
+/Users/dadashow/Projects/IntroCSharp/this&As/bin/Debug/net7.0/this&As.pdb
+/Users/dadashow/Projects/IntroCSharp/this&As/obj/Debug/net7.0/this&As.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/this&As/obj/Debug/net7.0/this&As.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/this&As/obj/Debug/net7.0/this&As.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/this&As/obj/Debug/net7.0/this&As.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/this&As/obj/Debug/net7.0/this&As.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/this&As/obj/Debug/net7.0/this&As.dll
+/Users/dadashow/Projects/IntroCSharp/this&As/obj/Debug/net7.0/refint/this&As.dll
+/Users/dadashow/Projects/IntroCSharp/this&As/obj/Debug/net7.0/this&As.pdb
+/Users/dadashow/Projects/IntroCSharp/this&As/obj/Debug/net7.0/this&As.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/this&As/obj/Debug/net7.0/ref/this&As.dll

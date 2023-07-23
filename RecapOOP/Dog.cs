@@ -3,16 +3,19 @@
 
 public class Dog
 {
-    private int age;
+    
     private string name;
 
-    public int Age { get => age; set => age = value; }
+    private int age;
+
+	public int Age { get => Age; set => Age = value; }
+
     public string Name { get => name; private set => name = value; }
 
 	public Dog(string name, int age)
 	{
 		this.Name = name;
-		this.Age = age;
+		Age = age;
 	}
 
 	public Dog(string name)

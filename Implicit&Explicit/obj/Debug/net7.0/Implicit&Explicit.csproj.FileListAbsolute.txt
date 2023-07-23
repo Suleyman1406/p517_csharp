@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/bin/Debug/net7.0/Implicit&Explicit
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/bin/Debug/net7.0/Implicit&Explicit.deps.json
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/bin/Debug/net7.0/Implicit&Explicit.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/bin/Debug/net7.0/Implicit&Explicit.dll
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/bin/Debug/net7.0/Implicit&Explicit.pdb
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/obj/Debug/net7.0/Implicit&Explicit.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/obj/Debug/net7.0/Implicit&Explicit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/obj/Debug/net7.0/Implicit&Explicit.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/obj/Debug/net7.0/Implicit&Explicit.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/obj/Debug/net7.0/Implicit&Explicit.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/obj/Debug/net7.0/Implicit&Explicit.dll
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/obj/Debug/net7.0/refint/Implicit&Explicit.dll
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/obj/Debug/net7.0/Implicit&Explicit.pdb
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/obj/Debug/net7.0/Implicit&Explicit.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/Implicit&Explicit/obj/Debug/net7.0/ref/Implicit&Explicit.dll

@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/IntroCSharp/Struct/bin/Debug/net7.0/Struct
+/Users/dadashow/Projects/IntroCSharp/Struct/bin/Debug/net7.0/Struct.deps.json
+/Users/dadashow/Projects/IntroCSharp/Struct/bin/Debug/net7.0/Struct.runtimeconfig.json
+/Users/dadashow/Projects/IntroCSharp/Struct/bin/Debug/net7.0/Struct.dll
+/Users/dadashow/Projects/IntroCSharp/Struct/bin/Debug/net7.0/Struct.pdb
+/Users/dadashow/Projects/IntroCSharp/Struct/obj/Debug/net7.0/Struct.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/IntroCSharp/Struct/obj/Debug/net7.0/Struct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/IntroCSharp/Struct/obj/Debug/net7.0/Struct.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Struct/obj/Debug/net7.0/Struct.AssemblyInfo.cs
+/Users/dadashow/Projects/IntroCSharp/Struct/obj/Debug/net7.0/Struct.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/IntroCSharp/Struct/obj/Debug/net7.0/Struct.dll
+/Users/dadashow/Projects/IntroCSharp/Struct/obj/Debug/net7.0/refint/Struct.dll
+/Users/dadashow/Projects/IntroCSharp/Struct/obj/Debug/net7.0/Struct.pdb
+/Users/dadashow/Projects/IntroCSharp/Struct/obj/Debug/net7.0/Struct.genruntimeconfig.cache
+/Users/dadashow/Projects/IntroCSharp/Struct/obj/Debug/net7.0/ref/Struct.dll

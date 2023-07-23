@@ -1,6 +1,6 @@
 ﻿
 
-public class Student : IPerson
+public class Student
 {
 
     public Student(string name, double grade)
